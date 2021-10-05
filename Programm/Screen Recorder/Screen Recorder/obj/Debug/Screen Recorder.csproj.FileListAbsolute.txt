@@ -1,0 +1,34 @@
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\avcodec-57.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\avdevice-57.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\avfilter-6.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\avformat-57.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\avutil-55.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\postproc-54.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\swresample-2.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\swscale-4.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.dll.config
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Screen Recorder.exe.config
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Screen Recorder.exe
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Screen Recorder.pdb
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.Video.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.xml
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.Video.xml
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\obj\Debug\Screen Recorder.csprojAssemblyReference.cache
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\obj\Debug\Screen_Recorder.Form1.resources
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\obj\Debug\Screen_Recorder.Properties.Resources.resources
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\obj\Debug\Screen Recorder.csproj.GenerateResource.cache
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\obj\Debug\Screen Recorder.csproj.CoreCompileInputs.cache
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\obj\Debug\Screen Recorder.csproj.CopyComplete
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\obj\Debug\Screen Recorder.exe
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\obj\Debug\Screen Recorder.pdb
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.Audio.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.Math.Core.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.Math.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\NAudio.dll
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.Audio.xml
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.Math.xml
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\Accord.Math.Core.xml
+C:\Users\Sania\Desktop\Диплом Шведин\Прога\Screen Recorder\Screen Recorder\bin\Debug\NAudio.xml
